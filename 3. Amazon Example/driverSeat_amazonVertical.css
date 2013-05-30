@@ -18,7 +18,7 @@
 	   width of the block has to be reset from
 	   the % width used horizontally. The float
 	   is cancelled. Margins have to be set top
-	   and bottom for vertical spacing.  */
+	   and bottom for vertical spacing. */
 	width: 100%;
 	float: none;
 	clear: both;
@@ -38,7 +38,7 @@
 	/* Height is no longer the controlling factor
 	   for the imgBlock element. Height is canceled
 	   and width is specified instead. Right margin
-	   spaces off the details.  */
+	   spaces off the details. */
 	height: inherit;
 	width: 100px;
 	margin-right: 10px;
@@ -60,7 +60,7 @@
 .verticalList .detailBlock {
 	/* This causes the longer titles to wrap
 	   without causing the detailBlock to move
-	   below the imgBlock.  */
+	   below the imgBlock. */
 	max-width: 175px;
 }
 
