@@ -46,7 +46,8 @@ html {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1ffff', endColorstr='#b1d8f5',GradientType=0 );
 }
 
-h1 {
+h1,
+.tool {
 	color: #616161;
 	font-weight: bold;
 	font-size: 2em;
